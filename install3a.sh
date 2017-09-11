@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /wrflibraries/LIBRARIES
+cd /home/wrflibrary
 sudo mkdir LIBRARIES
 cd LIBRARIES
 sudo wget http://www2.mmm.ucar.edu/wrf/OnLineTutorial/compile_tutorial/tar_files/mpich-3.0.4.tar.gz
