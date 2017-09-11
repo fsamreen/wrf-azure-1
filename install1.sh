@@ -8,6 +8,6 @@ which gcc
 which cpp
 gcc --version
 gfortran --version
-cd \wrfstorage\wrfinstall
-mkdir Build_WRF
-mkdir TESTS
+cd /wrfstorage/wrfinstall
+sudo mkdir Build_WRF
+sudo mkdir TESTS
