@@ -1,8 +1,8 @@
 #!/bin/bash
-cd ~/Build_WRF/LIBRARIES
-tar xzvf libpng-1.2.50.tar.gz     #or just .tar if no .gz present
+cd /home/wrflibrary/LIBRARIES
+sudo tar xzvf libpng-1.2.50.tar.gz     #or just .tar if no .gz present
 cd libpng-1.2.50
-./configure --prefix=$DIR/grib2
-make
-make install
+sudo ./configure --prefix=$DIR/grib2
+sudomake
+sudo make install
 cd ..
