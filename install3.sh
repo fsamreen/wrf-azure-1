@@ -11,7 +11,7 @@ sudo ./TEST_perl.pl
 #Test #7:sh In the command line, type:
 sudo ./TEST_sh.sh
 #The result should be: SUCCESS sh test
-cd /wrfstorage/wrfinstall/Build_WRF
+cd /wrfstorage/wrfinstall1/Build_WRF
 sudo mkdir LIBRARIES
 cd LIBRARIES
 sudo wget http://www2.mmm.ucar.edu/wrf/OnLineTutorial/compile_tutorial/tar_files/mpich-3.0.4.tar.gz
