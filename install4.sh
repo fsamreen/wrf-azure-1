@@ -1,6 +1,6 @@
 #!/bin/bash
 # run this code as source xy.sh
-export DIR=wrfstorage/wrfinstall/Build_WRF/LIBRARIES
+export DIR=wrfstorage/wrfinstall1/Build_WRF/LIBRARIES
 export CC=gcc
 export CXX=g++
 export FC=gfortran
